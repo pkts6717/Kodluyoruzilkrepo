@@ -14,9 +14,12 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde oluşturduğu
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
-``` Phyton
+
+```
+
 cd kodluyoruzilkrepo
-code . ```
+code .
+ ```
 
 ## Contributing
 
